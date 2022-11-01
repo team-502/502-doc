@@ -1,6 +1,6 @@
 # [hibernate](https://hibernate.org/) project
 
-## Depedencies
+## Dependencies
 
 ### 1. [Apache Netbeans](https://netbeans.apache.org/) (version >= 13.x.x)
 
