@@ -4,7 +4,7 @@
 
 ### 1. [Apache Netbeans](https://netbeans.apache.org/) (version >= 13.x.x)
 
-### 2. [maven](https://maven.apache.org/) (in Apache Netbeans)
+### 2. [Maven](https://maven.apache.org/) (in Apache Netbeans)
 
 ### 3.[JDK](https://www.oracle.com/java/technologies/downloads/) (version 17.x.x)
 
