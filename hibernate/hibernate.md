@@ -13,10 +13,10 @@
 + **on windows**
      [SQL Server download](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-+ on Mac os with docker
++ **on Mac os with docker**
   [install docker](https://docs.docker.com/desktop/install/mac-install/)
 
-+ on linux with docker
++ **on linux with docker**
   + on Ubuntu and others Debian based distros
 
     ```shell
@@ -30,7 +30,7 @@
 
 ### 5. [git](https://git-scm.com/) (latest version)
 
-+ **on mac os**
++ **on Mac os**
 
   + with [homebrew](https://brew.sh/)
 
@@ -58,6 +58,6 @@
   + OpenSUSE
   + Arch and others Arch based distros
 
-## Project configure
+## Project Configure
 
 ### 1. create a Maven Project in apache Netbeans
