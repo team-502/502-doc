@@ -1,3 +1,3 @@
 # 502-docs
 
-502 team documents
+502 documents
